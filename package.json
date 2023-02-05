@@ -1,0 +1,28 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000u\u0000m\u0000i\u0000n\u0000o\u0000s\u0000i\u0000t\u0000y\u0000\r\u0000 \u0000",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "browserslist": "> 0.25%, not dead",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raveonli/luminosity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raveonli/luminosity/issues"
+  },
+  "homepage": "https://github.com/Raveonli/luminosity#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "notyf": "^3.10.0"
+  }
+}
